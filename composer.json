@@ -1,5 +1,5 @@
 {
-	"name": "ipunkt/laravel-analytics",
+	"name": "iferas93/laravel-analytics-laravel-10",
 	"type": "library",
 	"description": "Analytics tracking for Laravel",
 	"keywords": ["analytics", "google analytics", "laravel", "statistics", "javascript", "php"],
